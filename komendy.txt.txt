@@ -1,0 +1,8 @@
+autoprefixer-cli:
+
+node_modules/.bin/autoprefixer-cli -o sass/style.prefixed.css sass/style.css 		:konwertuje z pliku style.css do style.prefixed.css, 
+node_modules/.bin/autoprefixer-cli sass/style.css --output sass/style.prefixed.css		dzia³aj¹ te¿ inne sposoby zapisania, 
+												komende nalezy ponawiaæ
+
+nu-html-checker:
+$node_modules/.bin/nu-html-checker *.html : wyœwietla b³edy dla ka¿dego pliku html, nale¿y ponawiaæ
