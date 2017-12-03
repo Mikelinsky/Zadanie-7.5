@@ -46,6 +46,7 @@ footer {
     padding: 15px 0; }
     footer div a {
       text-decoration: none;
+      color: #000000;
       cursor: pointer; }
       footer div a:hover {
         color: #f6ee62; }
